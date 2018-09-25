@@ -21,6 +21,7 @@ Mac向けのGraphicというアプリで開けます。
 * board_v1_1920_1080.{png,idraw}
 * koma_bako_v{1,2}_1920_1080.{png,idraw}
 * komadai_v{1,2}_1920_1080.{png,idraw}
+* piece_v1_776_636.{png,idraw}
 Creative Commons 表示-非営利 2.1 日本 License
 https://creativecommons.org/licenses/by-nc/2.1/jp/
 
